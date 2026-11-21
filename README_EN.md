@@ -39,7 +39,7 @@ Bilibili:
 
 Live Photo Album:
 
-- [https://alltuu\.cc/album/73a32108739142c368e1fa39230fa9c4/?menu=live](https://alltuu.cc/album/73a32108739142c368e1fa39230fa9c4/?menu=live)
+- [https://m\.alltuu\.com/album/2123300604/?from=qrCode\&menu=live](https://m\.alltuu\.com/album/2123300604/?from=qrCode\&menu=live)
 
 ## Repository Directory Structure
 | Directory | Description |

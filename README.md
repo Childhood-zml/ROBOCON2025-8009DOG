@@ -41,7 +41,7 @@ b站：
 
 图片直播：
 
-- https://alltuu\.cc/album/73a32108739142c368e1fa39230fa9c4/?menu=live
+- https://m\.alltuu\.com/album/2123300604/?from=qrCode\&menu=live
 
 ## 仓库目录结构
 | 目录 | 说明 |
