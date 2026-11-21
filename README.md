@@ -46,7 +46,7 @@ b站：
 ## 仓库目录结构
 | 目录 | 说明 |
 | --- | --- |
-| `1.Software/` | 完全下位机（STM32F427，Keil uVision 工程：[`robohorse2022.uvprojx`](<./1.Software/DM8009DOG/project_8009/robohorse2022/MDK-ARM/robohorse2022.uvprojx>)|
+| `1.Software/` | 完全下位机(STM32F427，Keil uVision 工程：[`robohorse2022.uvprojx`](<./1.Software/DM8009DOG/project_8009/robohorse2022/MDK-ARM/robohorse2022.uvprojx>,test_porject文件夹有相关库可参考))|
 | `2.Document/` | 资料与手册（PDF） |
 | `3.Video/` | 视频 |
 | `3.Images/` | 比赛图片 |

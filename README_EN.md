@@ -44,7 +44,7 @@ Live Photo Album:
 ## Repository Directory Structure
 | Directory | Description |
 | --- | --- |
-| `1.Software/` | Full lower computer (STM32F427, Keil uVision project: [`robohorse2022.uvprojx`](./1.Software/DM8009DOG/project_8009/robohorse2022/MDK-ARM/robohorse2022.uvprojx))|
+| `1.Software/` | Full lower computer (STM32F427, Keil uVision project: [`robohorse2022.uvprojx`](./1.Software/DM8009DOG/project_8009/robohorse2022/MDK-ARM/robohorse2022.uvprojx)，The test_project folder has relevant libraries you can refer to.)|
 | `2.Document/` | Documents and manuals (PDF) |
 | `3.Video/` | Videos |
 | `3.Images/` | Competition photos |
