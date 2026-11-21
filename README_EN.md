@@ -1,5 +1,8 @@
 # ROBOCON2025\-8009DOG
 
+[![English README](https://img.shields.io/badge/English-d9d9d9)](./README_EN.md)
+[![简体中文 README](https://img.shields.io/badge/简体中文-d9d9d9)](./README.md)
+
 > Open\-source sorting for the 2025 Robocon quadruped robot \(Team 2\) project of Suzhou University of Technology
 > 
 > 

@@ -1,5 +1,8 @@
 # ROBOOCN2025-8009DOG
 
+[![English README](https://img.shields.io/badge/English-d9d9d9)](./README_EN.md)
+[![简体中文 README](https://img.shields.io/badge/简体中文-d9d9d9)](./README.md)
+
 > 苏州工学院 2025赛季足式机器人（二队）项目开源整理
 > 
 > 
