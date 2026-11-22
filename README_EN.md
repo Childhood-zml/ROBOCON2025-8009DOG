@@ -57,7 +57,7 @@ Live Photo Album:
 
 Open [`1.Software/DM8009DOG/project_8009/robohorse2022/MDK-ARM/robohorse2022.uvprojx`](https://github.com/Childhood-zml/ROBOCON2025-8009DOG/blob/main/1.Software/DM8009DOG/project_8009/robohorse2022/MDK-ARM/robohorse2022.uvprojx)
 
-> Recommended Environment: Keil uVision5, compatible with STM32F427, matched with DJI 3508 motor driver
+> Recommended Environment: Keil uVision5, compatible with STM32F427, matched with DM 8009 motor driver
 > 
 > 
 
